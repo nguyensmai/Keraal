@@ -1,5 +1,9 @@
 ## Welcome to GitHub Pages
 
+This project has received funding from the European Union’s Seventh Framework Programme for research, technological development and demonstration under grant agreement no 601116 as part of the ECHORD++ (The European Coordination Hub for Open Robotics Development) project.
+
+
+
 You can use the [editor on GitHub](https://github.com/nguyensmai/Keraal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
